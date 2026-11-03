@@ -1,0 +1,5 @@
+# Core runtime dependency
+requests>=2.31.0
+
+# Testing dependency
+pytest>=8.0.0
